@@ -7,7 +7,7 @@ I'm Goutham , a passionate problem solver and full-stack developer with a knack 
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with JS, TS, ReactJs, Node, Express etc.
+- 🛠 &nbsp; I’m currently working with JS, TS, Angular, ReactJs, Node, Express etc.
 - 🚀 &nbsp; I’m currently exploring FireBase, TS, NextJs etc.
 - 👾 &nbsp; Fun fact: Equal is Not Always Equal in JS.
 - 📫 &nbsp; Reach me out: chittinenigoutham@gmail.com.
